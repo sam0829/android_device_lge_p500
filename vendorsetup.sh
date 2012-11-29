@@ -1,0 +1,3 @@
+add_lunch_combo cm_p500-eng
+add_lunch_combo cm_p500-userdebug
+add_lunch_combo pa_p500-userdebug
